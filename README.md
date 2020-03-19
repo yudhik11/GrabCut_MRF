@@ -1,5 +1,7 @@
 
-### “GrabCut” — Interactive Foreground Extraction using Iterated Graph Cuts
+## Star this repo if you want to use the code. Happy coding!
+
+# “GrabCut” — Interactive Foreground Extraction using Iterated Graph Cuts
 
 ### Yudhik Agrawal
 #### 20161093
